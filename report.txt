@@ -1,0 +1,18 @@
+================= Souvenir Summary ========================================
+Souvenir Name              Quantity      Price Each ($)           Total ($)
+----------------------------------------------------------------------------
+Magnets                           3                5.50               16.50
+keychain                          3                5.00               15.00
+magnet                            2                4.50                9.00
+statue                           12               10.00              120.00
+magnet                            3                4.00               12.00
+magnet                            3                2.00                6.00
+keychain                          4                3.00               12.00
+shot glass                        5                3.00               15.00
+magnet                            4                3.00               12.00
+magnets                           2                4.50                9.00
+keychain                          5                2.50               12.50
+MAGNETS                           3                2.50                7.50
+Keychains                         2                4.75                9.50
+glass shots                       4                3.40               13.60
+statue                            5               10.00               50.00
